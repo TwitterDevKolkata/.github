@@ -1,5 +1,7 @@
 ## Welcome to Kolkata Twitter Developer Community 💙 💙
 
+ <img src= />
+
 <!--
 
 **Here are some ideas to get you started:**
