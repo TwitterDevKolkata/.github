@@ -1,4 +1,4 @@
-# Welcome to Kolkata Twitter Dev Community 💙 💙
+# Welcome to Twitter Dev Kolkata Community 💙 💙
 
  <img src="https://github.com/TwitterDevKolkata/.github/blob/main/asserts/TwitterCommunity.gif" />
 
